@@ -1,5 +1,7 @@
 # bot-discord
 
+## Bot Stydify 
+
 ## Documentação
 
 - gerenciador de pacote node;
@@ -26,32 +28,6 @@
 TOKEN= acessar no Guide n aba Bot
 CLIENT_ID= acessar no Guide na aba OAuth2/General
 GUILD_ID= id do seu servidor
-
-
-# Imagens Bot Stydify 
-
-- Comando Ping
-
-
-![](./img/img-4.png)
-
-
-- Comando git
-
-![](./img/img-1.png)
-
-
-- Comando playlist
-
-
-![](./img/img-2.png)
-
-
-- comando docs
-
-
-![](./img/img-3.png)
-
 
 ## Observações
 

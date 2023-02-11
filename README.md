@@ -1,10 +1,10 @@
 # bot-discord
 
+## Bot Stydify 
+
 <p align="center">
 <img width="600" src="assets/to_readme/bot.gif">
 <p>
-
-## Bot Stydify 
 
 ## Documentação
 

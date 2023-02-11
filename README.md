@@ -1,5 +1,9 @@
 # bot-discord
 
+<p align="center">
+<img width="470" src="assets/to_readme/bot.png">
+<p>
+
 ## Documentação
 
 - gerenciador de pacote node;

@@ -1,7 +1,7 @@
 # bot-discord
 
 <p align="center">
-<img width="470" src="assets/to_readme/bot.gif">
+<img width="600" src="assets/to_readme/bot.gif">
 <p>
 
 ## Documentação
